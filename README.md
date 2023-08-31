@@ -5,8 +5,8 @@
 #### Azure Link-2: https://homegrown-secondary.z30.web.core.windows.net/
 
 ## Project Demo Video URLs
-#### Link-1(Youtube): https://youtu.be/zqd9rGpwZss
-#### Link-2(Google Drive): https://drive.google.com/file/d/1OWm1N6V9aMqLYIK4tSYzxjtt8YiqQaND/view?usp=drive_link
+#### Link-1(Youtube): 
+#### Link-2(Google Drive): 
 
 # Problem Statement
 The concept of home farming involves cultivating food in personal spaces, offering advantages like enhanced food security, health, income, and sustainability. Nevertheless, issues like limited space, resources, knowledge, and market access hinder its potential, necessitating "HOME GROWN" as an innovative solution for widespread urban and rural adoption.
@@ -21,7 +21,7 @@ The problem being addressed is the limited potential of home farming due to chal
 Yes, the project's purpose is clearly aligned with the problem statement. The purpose is to enable widespread adoption of home farming by providing a comprehensive solution that tackles the challenges identified in the problem statement recognizes the need to empower individuals with the ability to practice home farming despite the existing challeng. The basic functionality, "HOME GROWN," is introduced as the solution that encompasses technical support, hardware requirements, and crop offerings to empower individuals to engage in home farming successfully.
 
 # Azure Technologies Used
-1. Azure Portal(As a Deployment method)
+1. Azure AI Services (To create Azure Bot)
 2. Azure Storage Accounts
 3. Containers
 
