@@ -5,8 +5,8 @@
 #### Azure Link-2: https://homegrown-secondary.z30.web.core.windows.net/
 
 ## Project Demo Video URLs
-#### Link-1(Youtube): 
-#### Link-2(Google Drive): 
+#### Link-1(Youtube): https://youtu.be/WrRGDOd7SxU
+#### Link-2(Google Drive): https://drive.google.com/file/d/198C-2l5Wr9h1MgrFNQhnjr2XijIer6pb/view?usp=drive_link
 
 # Problem Statement
 The concept of home farming involves cultivating food in personal spaces, offering advantages like enhanced food security, health, income, and sustainability. Nevertheless, issues like limited space, resources, knowledge, and market access hinder its potential, necessitating "HOME GROWN" as an innovative solution for widespread urban and rural adoption.
