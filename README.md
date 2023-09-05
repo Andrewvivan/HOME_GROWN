@@ -32,6 +32,7 @@ Visual Studio Code
 3. Then I pushed the program files into my git repository.
 4. The project was deployed using GitHub pages and tested it.
 5. After that I logged in to my Azure Account and created a Azure Storage Account.
-6. After that I have created a Container with blob storage and uploaded my project code into the container.
-7. After that I started my static web services and deployed my website on Azure Static Web Servers.
-8. Finally my website was deployed on the azure web services and ready to use.
+6. After that used azure AI service to create language service and knowledge base for the bot.
+7. And I integrated the azure bot to my website using VS code.
+8. After that I have created a Container with blob storage and uploaded my project code into the container.
+9. Finally my website was deployed on the azure web services and ready to use.
