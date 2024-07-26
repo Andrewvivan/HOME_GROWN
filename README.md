@@ -1,5 +1,7 @@
 # HOME_GROWN
 "Empowering sustainable home farming, "HOME GROWN" provides a comprehensive solution with guidance, hardwares, and ready-to-grow crops. It tackles space, resource, and knowledge barriers, fostering health, food security, and environmental sustainability." 
+Deployment Demo: https://drive.google.com/file/d/198C-2l5Wr9h1MgrFNQhnjr2XijIer6pb/view?usp=sharing
+
 
 # Problem Statement
 The concept of home farming involves cultivating food in personal spaces, offering advantages like enhanced food security, health, income, and sustainability. Nevertheless, issues like limited space, resources, knowledge, and market access hinder its potential, necessitating "HOME GROWN" as an innovative solution for widespread urban and rural adoption.
